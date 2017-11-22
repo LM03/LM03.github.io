@@ -27,7 +27,7 @@ published: true
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td></td>
+    <td>Yes i did</td>
   </tr>
 </table>
 
@@ -39,30 +39,30 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td></td>
+    <td>I persevered with great spirit</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td></td>
+    <td>I did ask questions</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td></td>
+    <td>I was independant when on github</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td></td>
+    <td>I liked how i did</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td></td>
+    <td>I looked engaged when my teacher was speaking</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Maybe not get distracted by what someone else's doing.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Ask more questions</td>
     <td></td>
   </tr>
 </table>
