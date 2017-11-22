@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: sprites and variables of computer games
 layout: post
 author: luca.mailey
 permalink: /untitled-document/
@@ -14,7 +14,7 @@ published: true
 
 **_Variables_**
 
-*How quick you are, how many monsters there are, how much time you have to react.*
+*How quick you are, how many monsters there are, how much time you have to react you get points as your score.*
 
 **_Play snake_**
 
@@ -40,7 +40,7 @@ published: true
 
 *Arrows for different direction,need to be quick and agile*
 
-*And have good hand eye coordination.  *
+*And have good hand eye coordination and get points which lead up to your overall score.  *
 
 **_Sonic_*** *
 
@@ -52,7 +52,7 @@ published: true
 
 **_Variables_**
 
-*Up down left and right arrows direct where he's going to go, whether he's going to walk or roll.*
+*Up down left and right arrows direct where he's going to go, whether he's going to walk or roll and you get points for tricks.*
 
 **_Frogger_**
 
@@ -64,7 +64,7 @@ published: true
 
 **_Variables_**
 
-*There are lots of cars so you have got to be aware of your surroundings, use arrows to move. *
+*There are lots of cars so you have got to be aware of your surroundings, use arrows to move and you get points every time you cross a road, water so on. *
 
 **_Galaga_**
 
@@ -76,7 +76,7 @@ published: true
 
 **_Variables_**
 
-*Butterflies zoom in and out the page so you've got to be aware not to get hit as if you do you will die, use just left and right arrow, they shoot as well!*
+*Butterflies zoom in and out the page so you've got to be aware not to get hit as if you do you will die, use just left and right arrow, they shoot as well! and you also get points for when you shoot them down.*
 
 **_Double dragon_**
 
@@ -88,7 +88,7 @@ published: true
 
 **_Variables_**
 
-*You use different letters for different actions therefore it  is quite confusing.*
+*You use different letters for different actions therefore it  is quite confusing you get a life bar of when you get tired.*
 
 **_Joust_**
 
