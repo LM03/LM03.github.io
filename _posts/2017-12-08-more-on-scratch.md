@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>So maybe I could put my hand up more often and even if I get it the question wrong at least I know that I've tried and that I’m aware of what’s going on so I can apply the knowledge that I’ve gathered from the lesson to homework, spare time and other times when I know that there’s an option that I could do more work. </td>
+    <td>So maybe I could put my hand up more often and even if I get the answer wrong at least I know that I've tried and that I’m aware of what’s going on so I can apply the knowledge that I’ve gathered from the lesson to homework, spare time and other times when I know that there’s an option that I could do more work. </td>
     <td></td>
   </tr>
 </table>
