@@ -1,5 +1,5 @@
 ---
-title: my test blog
+title: My test blog
 layout: post
 author: luca.mailey
 permalink: /my-test-blog/
@@ -62,7 +62,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Maybe not get distracted by what someone else's doing.</td>
+    <td>Maybe not get distracted by what someone else's doing and focus on my own.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>Ask more questions</td>
+    <td>Ask more questions and try more extravagant coding using w3 schools using css code.</td>
     <td></td>
   </tr>
 </table>
