@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td> Our starting point was to have collected all the sprites for next lesson.</td>
+    <td>Our starting point was to have collected all the sprites for next lesson.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
