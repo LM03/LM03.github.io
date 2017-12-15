@@ -1,5 +1,5 @@
 ---
-title: creating more sprites for Space Invaders
+title: Creating more sprites for Space Invaders
 layout: post
 author: luca.mailey
 permalink: creating-more-sprites-for-space-invaders/
