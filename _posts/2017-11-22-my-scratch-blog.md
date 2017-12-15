@@ -1,5 +1,5 @@
 ---
-title: my scratch blog
+title: My scratch blog
 layout: post
 author: luca.mailey
 permalink: /my-scratch-blog/
