@@ -1,5 +1,5 @@
 ---
-title: More on scratch
+title: More on Scratch
 layout: post
 author: luca.mailey
 permalink: /more-on-scratch/
