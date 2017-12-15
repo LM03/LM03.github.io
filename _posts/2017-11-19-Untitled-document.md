@@ -1,5 +1,5 @@
 ---
-title: sprites and variables of computer games
+title: Sprites and variables of computer games
 layout: post
 author: luca.mailey
 permalink: /untitled-document/
