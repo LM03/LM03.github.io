@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Space invaders game on scratch</td>
+    <td>Improving our space invaders game on scratch</td>
     <td>Date</td>
     <td>24/11/17</td>
   </tr>
@@ -47,7 +47,7 @@ published: true
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I was independant. </td>
+    <td>I was independent. </td>
   </tr>
   <tr>
     <td>Reflecting</td>
