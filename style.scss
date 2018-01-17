@@ -27,7 +27,11 @@ body {
   font: 18px/1.4 $helvetica;
   color: #00ff00;
 }
-
+  #borderimg {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 round;
+}
  .container {
   margin: 0 auto;
   max-width: 750px;
