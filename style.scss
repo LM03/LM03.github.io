@@ -32,6 +32,9 @@ body {
   padding: 15px;
   border-image: url(border.png) 30 round;
 }
+  #grad {
+    background: linear-gradient(white, black);
+}
  .container {
   margin: 0 auto;
   max-width: 750px;
