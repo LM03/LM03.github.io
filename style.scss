@@ -27,13 +27,10 @@ body {
   font: 18px/1.4 $helvetica;
   color: #00ff00;
 }
-  #borderimg {
-  border: 10px solid transparent;
-  padding: 15px;
-  border-image: url(border.png) 30 round;
-}
-  #grad {
-    background: linear-gradient(white, black);
+
+.center {
+    text-align: center;
+    border: 3px solid orange;
 }
  .container {
   margin: 0 auto;
