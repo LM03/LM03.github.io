@@ -70,8 +70,8 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I may need to think of more complex code so I could show my IT skills even better than I did.
-Due to the fact that my computer was very slow in that I had to change over to a different one halfway through maybe I need to spot that earlier and quicker so that I don’t waste crucial time with my game.</td>
+    <td>I may need to think of more complex code so I could show my IT skills even better than I did, although baring in mind that we only had a limited amount of time.
+Due to the fact that my computer was very slow in that I had to change over to a different one halfway through the lesson maybe I need to spot that earlier so that I don’t waste crucial time on my game.</td>
     <td></td>
   </tr>
 </table>
