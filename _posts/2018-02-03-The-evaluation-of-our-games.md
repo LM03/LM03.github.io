@@ -43,7 +43,7 @@ published: true
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>I didn't question very much as we were just supposed to play their game and say what you liked about it and didn’t like about it.</td>
+    <td>I didn't question very much as we were just supposed to play their game and say what you liked and didn’t.</td>
   </tr>
   <tr>
     <td>Independence</td>
