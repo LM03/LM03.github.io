@@ -1,5 +1,5 @@
 ---
-title: Planning of our games
+title: Planning of our games that we are going to make 
 layout: post
 author: luca.mailey
 permalink: /planning-of-our-games/
