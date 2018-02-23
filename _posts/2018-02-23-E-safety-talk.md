@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To have a full understanding of what to do in these bad situations and talking to an adult</td>
+    <td>To have a full understanding of what to do in these bad situations and talking to an adult.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
