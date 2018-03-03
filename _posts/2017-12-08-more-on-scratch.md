@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Making more code to our scratch games</td>
     <td>Date</td>
-    <td>7/12/17</td>
+    <td>07/12/17</td>
   </tr>
 </table>
 
