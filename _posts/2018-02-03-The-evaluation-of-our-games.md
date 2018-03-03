@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Peer assessing each other's work</td>
     <td>Date</td>
-    <td>3/02/18</td>
+    <td>03/02/18</td>
   </tr>
 </table>
 
