@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Movement on sprites</td>
     <td>Date</td>
-    <td>1/12/17</td>
+    <td>01/12/17</td>
   </tr>
 </table>
 
