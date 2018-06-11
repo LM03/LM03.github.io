@@ -1,5 +1,5 @@
 ---
-title: What is your true identity
+title: What is your true identity?
 layout: post
 author: luca.mailey
 permalink: /what-is-your-true-identity/
